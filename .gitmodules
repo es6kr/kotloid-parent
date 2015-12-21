@@ -1,0 +1,12 @@
+[submodule "kotlib"]
+	path = kotlib
+	url = https://github.com/light-and-salt/kotlib
+[submodule "kotloid"]
+	path = kotloid
+	url = https://github.com/light-and-salt/kotloid
+[submodule "kotloid-test"]
+	path = kotloid-test
+	url = https://github.com/light-and-salt/kotloid-test
+[submodule "plugin"]
+	path = plugin
+	url = https://github.com/light-and-salt/gradle-plugin

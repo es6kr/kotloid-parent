@@ -1,0 +1,2 @@
+include ':kotlib', ':kotloid', ':kotloid-test'
+include ':plugin'
